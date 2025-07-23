@@ -1,0 +1,3 @@
+# No specific requirements yet
+# If you plan to run automation via Python, list needed packages here
+
