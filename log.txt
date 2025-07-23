@@ -1,0 +1,4 @@
+# Log of automated commits
+# Each line may represent a separate commit entry.
+
+Initial log entry.
